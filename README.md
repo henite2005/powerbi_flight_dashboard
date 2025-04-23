@@ -1,5 +1,8 @@
 ✈️ Airline Passenger & Flight Analytics Dashboard
 
+![Home](https://github.com/user-attachments/assets/7d8f5bcc-9871-45a8-9f10-69fd47f85da3)
+
+
 📌 Overview
 This Power BI dashboard provides a comprehensive visual representation and analysis of airline passenger trends, flights, bookings, and travel behaviors. It is built around key datasets: Passengers, Flights, Airlines, Airports, and Customer Flights, linked via a robust relational model. The interface is designed for clarity, interactivity, and ease of navigation with an aviation-themed UI.
 
@@ -10,6 +13,8 @@ This Power BI dashboard provides a comprehensive visual representation and analy
 - Tracking delays and disruptions across routes.
 - Segmenting passengers based on job classification and region.
 - Providing intuitive access to operational KPIs for stakeholders.
+
+![Airlines](https://github.com/user-attachments/assets/2c02ffab-d0a1-4c60-ae96-abef69046dce)
 
 🎯 Objectives
 - To monitor passenger profiles and classification.
@@ -26,6 +31,8 @@ This Power BI dashboard provides a comprehensive visual representation and analy
 - Airports	Top Origin and Destination Airports, Country and State Aggregates
 - Bookings	Customer Booking Frequency, Airline Preference
 - Travel Metrics	Real-time Date & Time Display, Travel History by Region
+
+![Passengers](https://github.com/user-attachments/assets/f5711ff8-df4d-45ed-8bd2-8c9ce0d957c4)
 
 🗃️ Data Model
 The dashboard is built on a star-schema-like model with the following tables:
@@ -44,6 +51,8 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 - Gender & Classification Analysis: Quick filters and visuals to compare segments.
 - Flight Delay Breakdown: View aircraft delay reasons and diverted flight trends.
 
+![Passengers2](https://github.com/user-attachments/assets/9c283d83-8f9a-4c95-8bf3-4660349ed2e6)
+
 🖥️ Dashboard Sections
 - ✈️ Airlines – View performance, preferences, and airline profiles.
 - 🌐 Airports – Explore airport-specific metrics and geographical data.
@@ -57,6 +66,8 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 - DAX for data modeling and KPIs
 - Power Query for data transformations
 
+![Travel-5](https://github.com/user-attachments/assets/3e750c9d-0b4d-4f36-a1c5-3976b7695721)
+
 🧩 Usage Tips
 - Use filters (e.g., Region, Airline, Gender) for drill-down analysis.
 - Hover over 3D visuals for detailed tooltips and labels.
@@ -65,4 +76,8 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 
 📬 Feedback & Suggestions
 I welcome improvements to enhance analytical scope or interface usability. 
-Please report bugs or feature suggestions via henite2005@gmail.com
+Please report bugs or feature suggestions via henite2005@gmail.com 
+
+![Travel-4](https://github.com/user-attachments/assets/0360a470-e94c-4200-8ee3-587c075e476d)
+
+
