@@ -1,10 +1,9 @@
 ✈️ Airline Passenger & Flight Analytics Dashboard
 
-![Home](https://github.com/user-attachments/assets/7d8f5bcc-9871-45a8-9f10-69fd47f85da3)
-
-
 📌 Overview
-This Power BI dashboard provides a comprehensive visual representation and analysis of airline passenger trends, flights, bookings, and travel behaviors. It is built around key datasets: Passengers, Flights, Airlines, Airports, and Customer Flights, linked via a robust relational model. The interface is designed for clarity, interactivity, and ease of navigation with an aviation-themed UI.
+This Power BI dashboard provides a comprehensive visual representation and analysis of airline passenger trends, flights, bookings, and travel behaviors. It is built around key datasets: Passengers, Flights, Airlines, Airports, and Customer Flights, linked via a robust relational model. The interface is designed for clarity, interactivity, and ease of navigation with an aviation-themed UI. 
+
+![Home](https://github.com/user-attachments/assets/7d8f5bcc-9871-45a8-9f10-69fd47f85da3)
 
 🧩 Problem Statement
 - Airline and airport operators often struggle with gaining actionable insights into passenger demographics, flight delays, and operational efficiencies. Key challenges include:
