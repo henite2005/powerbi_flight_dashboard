@@ -74,7 +74,7 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 - Leverage table visuals to export granular-level data for reports.
 
 📬 Feedback & Suggestions
-Please request the raw file via henite2005@gmail.com 
+Please request the raw files via henite2005@gmail.com 
 You can also report bugs or feature suggestions via henite2005@gmail.com 
 
 Thank you. Karibu sana. 
