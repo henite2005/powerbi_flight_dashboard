@@ -45,12 +45,12 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 - Flight Delay Breakdown: View aircraft delay reasons and diverted flight trends.
 
 🖥️ Dashboard Sections
-✈️ Airlines – View performance, preferences, and airline profiles.
-🌐 Airports – Explore airport-specific metrics and geographical data.
-📖 Bookings – Customer flight logs and airline frequency.
-🕐 Travel – Real-time travel dashboard with date and clock.
-📊 Passengers – Demographic insights and classification segmentation.
-📈 Overview – A high-level summary of travel operations and passenger flow.
+- ✈️ Airlines – View performance, preferences, and airline profiles.
+- 🌐 Airports – Explore airport-specific metrics and geographical data.
+- 📖 Bookings – Customer flight logs and airline frequency.
+- 🕐 Travel – Real-time travel dashboard with date and clock.
+- 📊 Passengers – Demographic insights and classification segmentation.
+- 📈 Overview – A high-level summary of travel operations and passenger flow.
 
 🛠️ Technologies Used
 - Power BI Desktop
