@@ -74,8 +74,10 @@ Relational integrity is maintained through keys like CustomerID, AIRLINE, and AI
 - Leverage table visuals to export granular-level data for reports.
 
 📬 Feedback & Suggestions
-I welcome improvements to enhance analytical scope or interface usability. 
-Please report bugs or feature suggestions via henite2005@gmail.com 
+Please request the raw file via henite2005@gmail.com 
+You can also report bugs or feature suggestions via henite2005@gmail.com 
+
+Thank you. Karibu sana. 
 
 ![Travel-4](https://github.com/user-attachments/assets/0360a470-e94c-4200-8ee3-587c075e476d)
 
